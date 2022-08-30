@@ -1,0 +1,30 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.font{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: rgba(41, 41, 41, 1);
+    box-sizing: inherit;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+.bg-yellow {
+    background-color: #FFC017;   
+}
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1)
+}
+.logo{
+    width: 12%;
+    height: 12%;
+}
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+.border-top-dark {
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
